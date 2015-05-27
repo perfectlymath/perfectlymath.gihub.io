@@ -27,6 +27,11 @@
 		font-style: normal;
 	}
 
+	a {
+		text-decoration: underline;
+		color: #2c479d;
+	}
+
 	.headline {
 		position: absolute;
 		top: 0;
