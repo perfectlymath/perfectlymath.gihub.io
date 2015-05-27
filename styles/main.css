@@ -6,8 +6,8 @@
 
 	body {
 		font-family: 'Lato', 'Helvetica Neue', Arial, sans-serif;
+		font-weight: 300;
 		color: #222122;
-		overflow: hidden;
 	}
 
 	h1 {
